@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Tetris-Game-React/static/js/main.7ee25202.js",
+    "static/js/787.79e25769.chunk.js": "/Tetris-Game-React/static/js/787.79e25769.chunk.js",
+    "index.html": "/Tetris-Game-React/index.html",
+    "main.7ee25202.js.map": "/Tetris-Game-React/static/js/main.7ee25202.js.map",
+    "787.79e25769.chunk.js.map": "/Tetris-Game-React/static/js/787.79e25769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7ee25202.js"
+  ]
+}
